@@ -1,0 +1,28 @@
+body{
+    background-image: url(download.jpeg);
+    background-size: cover;
+    justify-content: center;
+    text-align: center;
+    margin-top: 100px;
+}
+hr{
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: rgb(192, 127, 202);
+    height: 2px;
+}
+button{
+    padding: 5px;
+    border-radius: 10px;
+    background-color: rgb(179, 156, 200);
+    color:rgba(67, 40, 92, 0.91);
+    
+}
+button:hover{
+    background-color: rgba(210, 177, 241, 0.917);
+    color: rgb(129, 27, 61);
+}
+#one{
+font-size: larger;
+}
+
